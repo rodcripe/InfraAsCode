@@ -1,0 +1,2 @@
+[Windows2019]
+0.0.0.0 ansible_user=adminuser ansible_winrm_password=$TF_VAR_PASSWORD ansible_port=5986 ansible_connection=winrm ansible_winrm_server_cert_validation=ignore

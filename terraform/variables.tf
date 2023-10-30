@@ -1,0 +1,1 @@
+variable PASSWORD { default = "" }
