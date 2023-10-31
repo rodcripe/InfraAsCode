@@ -1,1 +1,1 @@
-variable PASSWORD { default = "" }
+variable PASSWORD { default = "0uVk41##rwnc" }
