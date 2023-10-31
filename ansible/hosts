@@ -1,2 +1,2 @@
 [Windows2019]
-20.226.62.252 ansible_user=adminuser ansible_winrm_password=Batatinha123 ansible_port=5986 ansible_connection=winrm ansible_winrm_server_cert_validation=ignore
+4.228.211.107 ansible_user=adminuser ansible_winrm_password=Batatinha123 ansible_port=5986 ansible_connection=winrm ansible_winrm_server_cert_validation=ignore
